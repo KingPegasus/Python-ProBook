@@ -40,5 +40,8 @@
 
 ## Python ProBook II - Contents
 1. [Functions](#func)<br>
-    1.1 [Defining a Function](#func-def)<br>
-    1.2 [Calling a Function](#func-call)<br>
+    1.1. [Defining a Function](#func-def)<br>
+    1.2. [Calling a Function](#func-call)<br>
+    1.3. [Positional Arguments](#func-pos)<br>
+    1.4. [Default Value Parameters](#func-default)<br>
+    1.5. [Unknown Number of Arguments](#func-unknown)<br>
