@@ -51,4 +51,9 @@
 3. [Classes and Objects](#class)<br>
 4. [Data Files](#datafiles)<br>
     4.1. [Text Files](#datafiles-txt)<br>
+    4.2. [CSV Files](#datafiles-csv)<br>
+    4.3. [JSON Files](#datafiles-json)<br>
+5. [Modules](#modules)<br>
+6. [Exception Handling](#exception)<br>
+
     
