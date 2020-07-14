@@ -45,3 +45,10 @@
     1.3. [Positional Arguments](#func-pos)<br>
     1.4. [Default Value Parameters](#func-default)<br>
     1.5. [Unknown Number of Arguments](#func-unknown)<br>
+    1.6. [Local vs Global variables use](#func-variables)<br>
+    1.7. [Nested Functions](#func-nested)<br>
+2. [While Loop](#while)<br>
+3. [Classes and Objects](#class)<br>
+4. [Data Files](#datafiles)<br>
+    4.1. [Text Files](#datafiles-txt)<br>
+    
